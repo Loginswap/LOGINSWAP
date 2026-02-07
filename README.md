@@ -18,16 +18,6 @@ Loginswap is a DeFi platform for secure token swaps with rewards for holders. De
    ```bash
    git clone https://github.com/Loginswap/LOGINSWAP.git
 
-## Solana Token Deployment - $LOGIN Now Live!
-
-Our official $LOGIN token has been deployed on Solana for fast, low-fee, and secure DeFi operations.
-
-**Mint Address (SPL Token):**  
-`CufTSKokxsxvDAszpXKSmUmkWNstqAcp9LFJ1VNfknjd`
-
-**Quick Verification (official links only):**  
-- [Solscan](https://solscan.io/token/CufTSKokxsxvDAszpXKSmUmkWNstqAcp9LFJ1VNfknjd)  
-- [Solana Explorer](https://explorer.solana.com/address/CufTSKokxsxvDAszpXKSmUmkWNstqAcp9LFJ1VNfknjd)
 
 **Current Status:**  
 - Total Supply: 1,000,000,000 $LOGIN (fixed)  
